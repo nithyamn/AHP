@@ -29,8 +29,3 @@ The algorithm requires three kind of data:
 
 > 				);
 
-#License
-
-This library is released under the Universiti Teknikal Malaysia Melaka license. You may use it in personal or commercial projects.
-# AHP
-# AHP
